@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5ffa6874ce922d44395a92fdc2cb2c31
+timeCreated: 1465248044
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Lava: {instanceID: 0}
+  - InitateRamp: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

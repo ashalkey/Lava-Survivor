@@ -1,0 +1,256 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon(TM) R6 Graphics (ID=0x130a)
+    Vendor:   ATI
+    VRAM:     992 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\alans\Documents\Unity SVN project\AlphaReleaseLavaTile_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\alans\Documents\Unity SVN project\AlphaReleaseLavaTile_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\alans\Documents\Unity SVN project\AlphaReleaseLavaTile_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\alans\Documents\Unity SVN project\AlphaReleaseLavaTile_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\alans\Documents\Unity SVN project\AlphaReleaseLavaTile_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\alans\Documents\Unity SVN project\AlphaReleaseLavaTile_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\alans\Documents\Unity SVN project\AlphaReleaseLavaTile_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\alans\Documents\Unity SVN project\AlphaReleaseLavaTile_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\alans\Documents\Unity SVN project\AlphaReleaseLavaTile_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\alans\Documents\Unity SVN project\AlphaReleaseLavaTile_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\alans\Documents\Unity SVN project\AlphaReleaseLavaTile_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\alans\Documents\Unity SVN project\AlphaReleaseLavaTile_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\alans\Documents\Unity SVN project\AlphaReleaseLavaTile_Data\Managed\GETween.dll (this message is harmless)
+Loading C:\Users\alans\Documents\Unity SVN project\AlphaReleaseLavaTile_Data\Managed\GETween.dll into Unity Child Domain
+Platform assembly: C:\Users\alans\Documents\Unity SVN project\AlphaReleaseLavaTile_Data\Managed\GUIAnimatorFREE.dll (this message is harmless)
+Loading C:\Users\alans\Documents\Unity SVN project\AlphaReleaseLavaTile_Data\Managed\GUIAnimatorFREE.dll into Unity Child Domain
+- Completed reload, in  0.101 seconds
+Platform assembly: C:\Users\alans\Documents\Unity SVN project\AlphaReleaseLavaTile_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\alans\Documents\Unity SVN project\AlphaReleaseLavaTile_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\alans\Documents\Unity SVN project\AlphaReleaseLavaTile_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\alans\Documents\Unity SVN project\AlphaReleaseLavaTile_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.945456 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.345474 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 723.
+Total: 0.807768 ms (FindLiveObjects: 0.086932 ms CreateObjectMapping: 0.068573 ms MarkObjects: 0.464358 ms  DeleteObjects: 0.185743 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1350 -> priority: 1 
+NullReferenceException: Object reference not set to an instance of an object
+  at DestroyProjectile.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 24.954430 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 725.
+Total: 0.691138 ms (FindLiveObjects: 0.052375 ms CreateObjectMapping: 0.055075 ms MarkObjects: 0.425482 ms  DeleteObjects: 0.156586 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 18.333534 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 726.
+Total: 0.568569 ms (FindLiveObjects: 0.043736 ms CreateObjectMapping: 0.041576 ms MarkObjects: 0.336390 ms  DeleteObjects: 0.145247 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DestroyProjectile2.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DestroyProjectile2.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DestroyProjectile2.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DestroyProjectile2.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DestroyProjectile2.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DestroyProjectile2.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DestroyProjectile2.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DestroyProjectile2.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DestroyProjectile2.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 22.656931 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 727.
+Total: 0.793189 ms (FindLiveObjects: 0.091791 ms CreateObjectMapping: 0.053995 ms MarkObjects: 0.474077 ms  DeleteObjects: 0.171164 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 17.020910 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 728.
+Total: 0.772671 ms (FindLiveObjects: 0.089092 ms CreateObjectMapping: 0.051295 ms MarkObjects: 0.461659 ms  DeleteObjects: 0.168465 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 19.599182 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 729.
+Total: 0.699238 ms (FindLiveObjects: 0.054535 ms CreateObjectMapping: 0.052375 ms MarkObjects: 0.424402 ms  DeleteObjects: 0.166305 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DestroyProjectile2.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 21.508993 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 730.
+Total: 0.792109 ms (FindLiveObjects: 0.094491 ms CreateObjectMapping: 0.054535 ms MarkObjects: 0.468138 ms  DeleteObjects: 0.172784 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 22.825935 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 731.
+Total: 0.791569 ms (FindLiveObjects: 0.095571 ms CreateObjectMapping: 0.054535 ms MarkObjects: 0.461659 ms  DeleteObjects: 0.178184 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DestroyProjectile2.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DestroyProjectile.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 24.774084 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 732.
+Total: 0.792649 ms (FindLiveObjects: 0.093411 ms CreateObjectMapping: 0.053455 ms MarkObjects: 0.467058 ms  DeleteObjects: 0.176024 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 21.630484 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 733.
+Total: 0.810468 ms (FindLiveObjects: 0.094491 ms CreateObjectMapping: 0.053995 ms MarkObjects: 0.482717 ms  DeleteObjects: 0.177644 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DestroyProjectile2.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DestroyProjectile2.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DestroyProjectile2.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DestroyProjectile2.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DestroyProjectile2.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 21.546249 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 734.
+Total: 0.805608 ms (FindLiveObjects: 0.093951 ms CreateObjectMapping: 0.055075 ms MarkObjects: 0.477857 ms  DeleteObjects: 0.176024 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 26.005713 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 735.
+Total: 0.754853 ms (FindLiveObjects: 0.058854 ms CreateObjectMapping: 0.053995 ms MarkObjects: 0.463818 ms  DeleteObjects: 0.177104 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DestroyProjectile.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 21.858341 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 736.
+Total: 0.875262 ms (FindLiveObjects: 0.079372 ms CreateObjectMapping: 0.064254 ms MarkObjects: 0.536712 ms  DeleteObjects: 0.193302 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 28.532690 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 737.
+Total: 0.825046 ms (FindLiveObjects: 0.099351 ms CreateObjectMapping: 0.055075 ms MarkObjects: 0.487576 ms  DeleteObjects: 0.181423 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 29.294024 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 738.
+Total: 0.832066 ms (FindLiveObjects: 0.096651 ms CreateObjectMapping: 0.055075 ms MarkObjects: 0.500535 ms  DeleteObjects: 0.178724 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DestroyProjectile2.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DestroyProjectile.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DestroyProjectile.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DestroyProjectile.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DestroyProjectile.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DestroyProjectile2.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at DestroyProjectile.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+

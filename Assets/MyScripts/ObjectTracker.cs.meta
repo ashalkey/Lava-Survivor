@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a95abbc25d9383242933ad1b95301e41
+timeCreated: 1465506578
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - WinMusic: {fileID: 100000, guid: 81b0c2edaa8d4e8489c3f76f2d43cf76, type: 3}
+  - InitiateRamp: {instanceID: 0}
+  - Lava: {fileID: 100004, guid: a15d1c97214f842febf50805ee0eb607, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
